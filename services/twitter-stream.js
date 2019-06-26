@@ -1,10 +1,10 @@
 let TwitterStreamAPI = require("twitter-stream-api");
 
 let keys = {
-  consumer_key: "naXqHYuZjUJZW0YXvyPHiETBi",
-  consumer_secret: "VJsSPJTxQkRHPTH7QuQyLdBsPCB0JhCP0SmF7g3487lvUERDCl",
-  token: "2943057045-P7mYjlS4FhAxQqscmnE67noKRA8G3BRSHfX0Gf3",
-  token_secret: "W6d1YbdTETeaiZuDY8Q2Kw4uqYexAAlNcgDD6BjdTRfc1"
+  consumer_key: "",
+  consumer_secret: "",
+  token: "",
+  token_secret: ""
 };
 
 class TwitterStream {
